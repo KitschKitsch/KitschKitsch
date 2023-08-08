@@ -47,9 +47,10 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitschKitsch&layout=compact)](https://github.com/KitschKitsch/github-readme-stats)
   
 ![KitschKitsch's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitschKitsch&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitschKitsch&layout=compact)](https://github.com/KitschKitsch/github-readme-stats)
 
