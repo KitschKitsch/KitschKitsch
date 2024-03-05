@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kitsch%20Kitsch&fontSize=90)
 
 
-# 🙋‍♂️안녕하세요! 키보는 치는 신입 개발자 '오영섭' 입니다! 👨‍💻
+# 🙋‍♂️안녕하세요! 키보는 치는 신입 분석가 '오영섭' 입니다! 👨‍💻
 
-<h5>아직도 코딩의 세계가 너무나도 신기한 코린이지만,<br>
-개발자의 모습을 닮아가기 위해 노력하고 있습니다.</h5>
+<h5>데이터 분석의 세계가 너무나도 신기한 분린이(?)는<br>
+통찰력 있는 분석가의 시각과 스킬을 배우기 위해 노력하고 있습니다.</h5>
 
 
 ## 📫Contacts
